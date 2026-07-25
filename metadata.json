@@ -1,0 +1,6 @@
+{
+  "name": "Hakika IA - Social DNA",
+  "description": "Moteur de raisonnement pour Social DNA restaurant l'identité des citoyens sans papiers via la logique de cohérence narrative et les graphes de connaissances.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
